@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Nexus Shortener & Analytics",
+  "description": "A high-performance URL shortener and analytics dashboard featuring simulated distributed systems (Redis, Kafka) and Gemini-powered URL categorization.",
+  "requestFramePermissions": []
+}
