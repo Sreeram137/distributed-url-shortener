@@ -59,7 +59,7 @@ Includes a polished SaaS UI, link creation + management, and simulated click ana
 
 ---
 
-## ⚠️ Note About Redirect Links in AI Studio
+## ⚠️ Note 
 
 This project runs inside a preview/sandbox environment.  
 For a **real working short URL domain**, the FastAPI backend must be deployed (Render/AWS).  
@@ -67,11 +67,4 @@ The current build demonstrates the UI + system architecture and simulates redire
 
 ---
 
-## 📌 Resume Bullet (Honest + Strong)
 
-- Designed a Bitly-style URL shortener and analytics platform, building a production-style SaaS dashboard and defining a scalable distributed architecture (cache-first redirects, Kafka-based click ingestion, and AWS deployment strategy).
-
----
-
-## License
-MIT
